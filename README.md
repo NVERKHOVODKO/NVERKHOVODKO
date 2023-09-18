@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi, I'm Nikita Verkhovodko 👋
 
+- A passionate full-stack engineer
+- Currently work as a Back-end Developer at ITC Systems
+- Computer science student
+- I’m always open for new opportunities, this is my CV
+
+<div id="header" align="center>
+  <h1>Hi, I'm Nikita Verkhovodko 👋</h1>
+  <h3>Full Stack Developer from Minsk</h3>
+</div>
+  
 <!--
 **NVERKHOVODKO/NVERKHOVODKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
