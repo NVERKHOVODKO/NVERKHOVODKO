@@ -38,6 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<a href="https://www.linkedin.com/in/nikita-verkhovodko-225461223/)https://www.linkedin.com/in/nikita-verkhovodko-225461223/">LinkedIn</a>
-<a href="https://t.me/user1046">Telegram</a>
+- <a href="https://www.linkedin.com/in/nikita-verkhovodko-225461223/)https://www.linkedin.com/in/nikita-verkhovodko-225461223/">LinkedIn</a>
+<br>
+- <a href="https://t.me/user1046">Telegram</a>
 
