@@ -15,10 +15,6 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Minsk
 - :telescope: I’m working as a Software Engineer.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nikita-verkhovodko-225461223/)https://www.linkedin.com/in/nikita-verkhovodko-225461223/)
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="Git" **alt="Git" width="40" height="40"/>
