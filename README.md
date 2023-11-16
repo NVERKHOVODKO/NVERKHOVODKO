@@ -32,6 +32,7 @@
 - **Frameworks**:
 
    ![.Net core](https://img.shields.io/badge/.net-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+   ![Winforms](https://img.shields.io/badge/Winforms-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![EF](https://img.shields.io/badge/EntityFramework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,9 +64,8 @@
     ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
     ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![SqlLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![H2](https://user-images.githubusercontent.com/140953/31318987-7ab66974-ac5b-11e7-81db-8a4ad566551f.png)
-    
 
+ 
 <br>   
 
 - **Extras**:
