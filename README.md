@@ -27,13 +27,13 @@
 - **Languages**:
     
     ![CSharp](https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    
+    ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
     
 - **Frameworks**:
 
-   ![.Net core](https://img.shields.io/badge/.net core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+   ![.Net core](https://img.shields.io/badge/.net-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -50,10 +50,10 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-    ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![Visual Studio](https://img.shields.io/badge/VisualStudio-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
