@@ -2,8 +2,6 @@
 
 
 
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -89,7 +87,7 @@
 <ul>
 
 <li>
-<a href="https://www.linkedin.com/in/adam-kasperovich-169069221/" target="_blank">
+<a href="https://www.linkedin.com/in/nikita-verkhovodko-225461223/" target="_blank">
   LinkedIn
 </a>
 </li>
@@ -97,7 +95,7 @@
 <br>
 
 <li>
-<a href="mailto:akasperovich1@gmail.com" target="_blank">
+<a href="mailto:mikita.verkhavodka@gmail.com" target="_blank">
 Email
 </a>
 </li>
@@ -114,8 +112,3 @@ Email
 ## <b>The Show Must Go On!</b>
 
 </div>
-
-<!---
-whoisthisadam/whoisthisadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
