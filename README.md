@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Adam Kasperovich </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nikita Verkhovodko </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 
@@ -73,10 +73,10 @@
 - **Extras**:
 
     ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
-    ![SignalR](https://img.shields.io/badge/SignalR%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
-    ![Docker](https://img.shields.io/badge/Docker%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
-    ![Telegram.Bot](https://img.shields.io/badge/Telegram%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
-    ![Entity Framework](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+    ![SignalR](https://img.shields.io/badge/SignalR-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+    ![Docker](https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+    ![Telegram.Bot](https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+    ![Entity Framework](https://img.shields.io/badge/EntityFramework-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 </p>
 
