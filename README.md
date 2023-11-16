@@ -11,7 +11,7 @@
 - A passionate full-stack engineer
 - Currently work as a Back-end Developer at [Analitique] (https://analitique.com/)
 - Computer science student
-- I’m always open for new opportunities, this is [my CV] (https://resume.io/r/C4obXFV3m])
+- I’m always open for new opportunities, this is my CV (https://resume.io/r/C4obXFV3m])
 
 <br><br>
 
