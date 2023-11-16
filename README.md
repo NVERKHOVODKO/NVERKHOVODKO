@@ -34,6 +34,7 @@
 - **Frameworks**:
 
    ![.Net core](https://img.shields.io/badge/.net-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+   ![EF](https://img.shields.io/badge/EntityFramework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
    ![Angular](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -72,7 +73,9 @@
 - **Extras**:
 
     ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
-    ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)   
+    ![SignalR](https://img.shields.io/badge/SignalR%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+    ![Docker](https://img.shields.io/badge/Docker%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
+    ![Telegram.Bot](https://img.shields.io/badge/Telegram%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pin)
     ![Entity Framework](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 </p>
