@@ -26,16 +26,16 @@
 
 - **Languages**:
     
-    ![Java](https://img.shields.io/badge/C#-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+    ![CSharp](https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    
 
 <br>   
     
 - **Frameworks**:
 
-   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+   ![.Net core](https://img.shields.io/badge/.net core-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+   ![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Angular](https://img.shields.io/badge/Angular-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
 
