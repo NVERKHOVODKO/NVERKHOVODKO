@@ -22,7 +22,7 @@
 
 - **Languages**:
     
-    ![CSharp](https://img.shields.io/badge/C#-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![CSharp](https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
