@@ -11,7 +11,7 @@
 - Computer science student<br>
 - I’m always open for new opportunities, this is my CV <a href="https://resume.io/r/C4obXFV3m" target="_blank">here</a>.
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
