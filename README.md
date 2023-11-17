@@ -4,14 +4,13 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <br>
 
-- A passionate full-stack engineer
-- Currently work as a Back-end Developer at [Analitique] (https://analitique.com/)
-- Computer science student
-- I’m always open for new opportunities, this is my CV (https://resume.io/r/C4obXFV3m])
+- A passionate full-stack engineer<br>
+- Currently work as a Back-end Developer at <a href="https://analitique.com/" target="_blank">Analitique</a><br>
+- Computer science student<br>
+- I’m always open for new opportunities, this is my CV <a href="https://resume.io/r/C4obXFV3m]" target="_blank">here</a>.
 
 <br><br>
 
