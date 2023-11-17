@@ -22,7 +22,7 @@
 
 - **Languages**:
     
-    ![CSharp](https://img.shields.io/badge/CSharp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![CSharp](https://img.shields.io/badge/Cl%20Sharp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>   
@@ -51,7 +51,7 @@
     ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/VisualStudio-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![Visual Studio](https://img.shields.io/badge/Visuall%20Studio-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
