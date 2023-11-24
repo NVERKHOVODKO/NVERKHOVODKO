@@ -7,7 +7,7 @@
 <br>
 
 - A passionate full-stack engineer<br>
-- Currently work as a Back-end Developer at <a href="https://analitique.com/" target="_blank">Analitique</a><br>
+- Currently work as a Full-stack Developer at <a href="https://analitique.com/" target="_blank">Analitique</a><br>
 - Computer science student<br>
 - I’m always open for new opportunities, this is my CV <a href="https://resume.io/r/C4obXFV3m" target="_blank">here</a>.
 
